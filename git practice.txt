@@ -1,0 +1,7 @@
+or create a new repository on the command line
+echo "# git-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/s-4-m-a-n/git-practice.git
+git push -u origin master
